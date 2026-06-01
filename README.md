@@ -1,4 +1,6 @@
 # 🎁 WishReserveBot
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://www.python.org/) [![Stars](https://img.shields.io/github/stars/stephanvoytov/wish-reserve-bot)](https://github.com/stephanvoytov/wish-reserve-bot/stargazers)
+
 
 Telegram bot for creating wish lists with a **gift reservation** feature.  
 Share your wishes with friends and prevent duplicate gifts!
